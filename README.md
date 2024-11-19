@@ -6,10 +6,12 @@ This project implements a product recommendation system using two approaches:
 An interactive interface is provided using Streamlit to allow users to explore and interact with these recommendation systems.
 
 
-**Features**
-    1. Rank-Based Recommendation: Suggests popular products based on average user ratings.
-    2. User-Based Collaborative Filtering: Recommends products by finding similar users and suggesting items they liked.
-    3. Streamlit App: User-friendly interface for testing and visualizing recommendations interactively.
+**Features** 
+
+
+   1. Rank-Based Recommendation: Suggests popular products based on average user ratings.
+   2. User-Based Collaborative Filtering: Recommends products by finding similar users and suggesting items they liked.
+   3. Streamlit App: User-friendly interface for testing and visualizing recommendations interactively.
 
 
 
