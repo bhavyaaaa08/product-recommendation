@@ -1,4 +1,4 @@
-__E-Commerce Product Recommendation System__
+# E-Commerce Product Recommendation System
 This project implements a product recommendation system using two approaches:
 
    1. Rank-Based Recommendations
